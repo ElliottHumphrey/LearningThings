@@ -12,3 +12,12 @@ poopiedoo = harrisons_list_1 + harrisons_list_2
 poopiedoo.sort()
 print(poopiedoo)
 
+#This is a different way to sort a list.
+
+harrisons_list_1 = [2, 3, 4, 7, 4, 2, 7, 8, 4, 2]
+harrisons_list_2 = [44, 3, 4, 6, 8, 9, 1, 2, 3, 4,
+                    6, 2, 3, 4, 5, 8, 3333, 4, 4]
+
+poopiedoo = harrisons_list_1 + harrisons_list_2
+sorted_poop = sorted(poopiedoo)
+print(sorted_poop)

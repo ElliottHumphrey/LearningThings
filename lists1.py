@@ -4,4 +4,4 @@ harrison_list_2 = [44, 3, 4, 6, 8, 9, 1, 2, 3, 4,
 
 # The above are my lists. You need to a new
 # list for yourself that consists of everything
-# in ly wto lists - but sorted in ascending order.
+# in my two lists - but sorted in ascending order.

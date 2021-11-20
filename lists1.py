@@ -8,3 +8,6 @@ harrisons_list_2 = [44, 3, 4, 6, 8, 9, 1, 2, 3, 4,
 
 # I made this changes from my own laptop! :D
 
+poopiedoo = harrisons_list_1 + harrisons_list_2
+
+#print(ascending(poopiedoo))
